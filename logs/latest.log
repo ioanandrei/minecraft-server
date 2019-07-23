@@ -1,64 +1,29 @@
-[10:22:58] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[10:22:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:22:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:22:58] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[10:22:58] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:22:58] [Server thread/INFO]: Starting minecraft server version 1.14.3
-[10:22:58] [Server thread/INFO]: Loading properties
-[10:22:58] [Server thread/INFO]: Default game type: SURVIVAL
-[10:22:58] [Server thread/INFO]: Generating keypair
-[10:22:58] [Server thread/INFO]: Starting Minecraft server on *:25565
-[10:22:58] [Server thread/INFO]: Using default channel type
-[10:23:02] [Server thread/INFO]: Preparing level "world"
-[10:23:02] [Server thread/INFO]: Reloading ResourceManager: Default
-[10:23:03] [Server thread/INFO]: Loaded 6 recipes
-[10:23:03] [Server thread/INFO]: Loaded 811 advancements
-[10:23:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[10:23:06] [Server thread/INFO]: Preparing spawn area: 0%
-[10:23:06] [Server thread/INFO]: Preparing spawn area: 0%
-[10:23:06] [Server thread/INFO]: Preparing spawn area: 0%
-[10:23:06] [Server thread/INFO]: Preparing spawn area: 0%
-[10:23:06] [Server thread/INFO]: Preparing spawn area: 0%
-[10:23:06] [Server thread/INFO]: Preparing spawn area: 0%
-[10:23:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:23:08] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[10:23:08] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[10:23:08] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[10:23:09] [Server thread/INFO]: Time elapsed: 5125 ms
-[10:23:09] [Server thread/INFO]: Done (6.699s)! For help, type "help"
-[10:24:05] [User Authenticator #1/INFO]: UUID of player Ioan_Andrei is 7a58a61c-5ca1-4b7d-97b6-19e75193b9b3
-[10:24:05] [Server thread/INFO]: Ioan_Andrei[/127.0.0.1:53192] logged in with entity id 569 at (-232.70000002533197, 64.0000002, -123.70000002533197)
-[10:24:05] [Server thread/INFO]: Ioan_Andrei joined the game
-[10:24:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[10:42:16] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/3149, l='world', x=-310.42, y=64.00, z=-102.80]
-[10:46:44] [Server thread/INFO]: Ioan_Andrei has made the advancement [Diamonds!]
-[10:48:59] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/4343, l='world', x=-303.83, y=64.00, z=-103.25]
-[10:50:06] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/4512, l='world', x=-308.18, y=64.00, z=-104.24]
-[10:52:29] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/4952, l='world', x=-303.83, y=64.00, z=-107.11]
-[10:53:27] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/5113, l='world', x=-308.17, y=64.00, z=-102.76]
-[11:00:53] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/6251, l='world', x=-310.48, y=64.00, z=-102.28]
-[11:01:09] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/6279, l='world', x=-305.25, y=64.00, z=-102.31]
-[11:13:40] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/8445, l='world', x=-308.25, y=64.00, z=-102.25]
-[11:16:56] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/8997, l='world', x=-310.48, y=64.00, z=-102.28]
-[11:17:03] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/9017, l='world', x=-309.99, y=64.00, z=-103.71]
-[11:20:10] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/9430, l='world', x=-311.80, y=64.00, z=-104.91]
-[11:33:54] [Server thread/INFO]: Ioan_Andrei lost connection: Disconnected
-[11:33:54] [Server thread/INFO]: Ioan_Andrei left the game
-[14:13:31] [User Authenticator #2/INFO]: UUID of player Ioan_Andrei is 7a58a61c-5ca1-4b7d-97b6-19e75193b9b3
-[14:13:31] [Server thread/INFO]: Ioan_Andrei[/127.0.0.1:54680] logged in with entity id 11376 at (-238.91424402947612, 59.0, -136.23850796115266)
-[14:13:31] [Server thread/INFO]: Ioan_Andrei joined the game
-[14:14:28] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/11555, l='world', x=-305.68, y=64.00, z=-102.26]
-[14:16:10] [Server thread/INFO]: Ioan_Andrei lost connection: Disconnected
-[14:16:10] [Server thread/INFO]: Ioan_Andrei left the game
-[14:30:57] [User Authenticator #3/INFO]: UUID of player Ioan_Andrei is 7a58a61c-5ca1-4b7d-97b6-19e75193b9b3
-[14:30:57] [Server thread/INFO]: Ioan_Andrei[/127.0.0.1:54784] logged in with entity id 11819 at (-280.9794651995222, 14.0, -144.71861754896346)
-[14:30:57] [Server thread/INFO]: Ioan_Andrei joined the game
-[14:31:46] [Server thread/INFO]: Ioan_Andrei has made the advancement [Ice Bucket Challenge]
-[14:33:56] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/12438, l='world', x=-309.74, y=64.00, z=-103.79]
-[14:34:44] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/12564, l='world', x=-310.08, y=64.00, z=-104.22]
-[14:40:58] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/13378, l='world', x=-310.41, y=64.00, z=-105.27]
-[14:51:51] [Server thread/INFO]: Ioan_Andrei has made the advancement [We Need to Go Deeper]
-[14:51:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6662ms or 133 ticks behind
-[15:05:25] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/17036, l='world', x=-303.83, y=64.00, z=-102.23]
-[15:12:37] [Server thread/INFO]: Ioan_Andrei lost connection: Disconnected
-[15:12:37] [Server thread/INFO]: Ioan_Andrei left the game
+[11:37:13] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:37:13] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:37:13] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:37:13] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:37:13] [Server thread/INFO]: Starting minecraft server version 1.14.3
+[11:37:13] [Server thread/INFO]: Loading properties
+[11:37:13] [Server thread/INFO]: Default game type: SURVIVAL
+[11:37:13] [Server thread/INFO]: Generating keypair
+[11:37:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:37:14] [Server thread/INFO]: Using default channel type
+[11:37:14] [Server thread/INFO]: Preparing level "world"
+[11:37:14] [Server thread/INFO]: Reloading ResourceManager: Default
+[11:37:15] [Server thread/INFO]: Loaded 6 recipes
+[11:37:16] [Server thread/INFO]: Loaded 811 advancements
+[11:37:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:37:25] [Server thread/INFO]: Preparing spawn area: 0%
+[11:37:25] [Server thread/INFO]: Preparing spawn area: 0%
+[11:37:25] [Server thread/INFO]: Preparing spawn area: 0%
+[11:37:25] [Server thread/INFO]: Preparing spawn area: 0%
+[11:37:26] [Server thread/INFO]: Preparing spawn area: 47%
+[11:37:26] [Server thread/INFO]: Time elapsed: 2198 ms
+[11:37:26] [Server thread/INFO]: Done (11.715s)! For help, type "help"
+[11:39:39] [User Authenticator #1/INFO]: UUID of player AndreiCauc is ebb7834a-da92-486b-83ad-5292645a11d6
+[11:39:40] [Server thread/INFO]: AndreiCauc[/5.12.162.12:50155] logged in with entity id 346 at (-297.826542729281, 64.0, -81.35152766818524)
+[11:39:40] [Server thread/INFO]: AndreiCauc joined the game
+[13:05:09] [Server thread/INFO]: AndreiCauc has made the advancement [Fishy Business]
+[13:07:32] [Server thread/INFO]: AndreiCauc has made the advancement [Tactical Fishing]
+[13:43:35] [Server thread/INFO]: AndreiCauc lost connection: Disconnected
+[13:43:35] [Server thread/INFO]: AndreiCauc left the game
