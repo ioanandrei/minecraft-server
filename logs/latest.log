@@ -1,86 +1,65 @@
-[21:54:15] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:54:15] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:54:15] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:54:15] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:54:15] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:54:15] [Server thread/INFO]: Starting minecraft server version 1.14.3
-[21:54:15] [Server thread/INFO]: Loading properties
-[21:54:15] [Server thread/INFO]: Default game type: SURVIVAL
-[21:54:15] [Server thread/INFO]: Generating keypair
-[21:54:15] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:54:15] [Server thread/INFO]: Using default channel type
-[21:54:18] [Server thread/INFO]: Preparing level "world"
-[21:54:18] [Server thread/INFO]: Reloading ResourceManager: Default
-[21:54:19] [Server thread/INFO]: Loaded 6 recipes
-[21:54:19] [Server thread/INFO]: Loaded 811 advancements
-[21:54:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:54:21] [Server thread/INFO]: Preparing spawn area: 0%
-[21:54:21] [Server thread/INFO]: Preparing spawn area: 0%
-[21:54:21] [Server thread/INFO]: Preparing spawn area: 0%
-[21:54:21] [Server thread/INFO]: Preparing spawn area: 0%
-[21:54:24] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[21:54:24] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[21:54:24] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[21:54:24] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[21:54:24] [Server thread/INFO]: Preparing spawn area: 2%
-[21:54:24] [Server thread/INFO]: Time elapsed: 4313 ms
-[21:54:24] [Server thread/INFO]: Done (5.684s)! For help, type "help"
-[21:55:39] [Server thread/INFO]: com.mojang.authlib.GameProfile@148e7e60[id=<null>,name=Ioan_Andrei,properties={},legacy=false] (/127.0.0.1:61938) lost connection: Disconnected
-[21:55:46] [User Authenticator #1/INFO]: UUID of player Ioan_Andrei is 7a58a61c-5ca1-4b7d-97b6-19e75193b9b3
-[21:55:46] [Server thread/INFO]: Ioan_Andrei[/127.0.0.1:61941] logged in with entity id 346 at (-288.0088168655796, 57.0, -158.50807182042092)
-[21:55:46] [Server thread/INFO]: Ioan_Andrei joined the game
-[21:56:07] [Server thread/INFO]: Ioan_Andrei lost connection: Disconnected
-[21:56:07] [Server thread/INFO]: Ioan_Andrei left the game
-[22:40:16] [User Authenticator #2/INFO]: UUID of player Ioan_Andrei is 7a58a61c-5ca1-4b7d-97b6-19e75193b9b3
-[22:40:16] [Server thread/INFO]: Ioan_Andrei[/127.0.0.1:62065] logged in with entity id 421 at (-288.0088168655796, 57.0, -158.50807182042092)
-[22:40:16] [Server thread/INFO]: Ioan_Andrei joined the game
-[22:42:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2105ms or 42 ticks behind
-[22:43:53] [Server thread/INFO]: Ioan_Andrei was slain by Zombie Pigman
-[22:44:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2566ms or 51 ticks behind
-[22:45:25] [Server thread/INFO]: Ioan_Andrei was slain by Zombie Pigman
-[22:56:17] [Server thread/INFO]: Ioan_Andrei was slain by Zombie Pigman
-[22:56:33] [Server thread/INFO]: Ioan_Andrei was slain by Zombie Pigman
-[22:58:43] [Server thread/WARN]: Fetching packet for removed entity ats['Iron Boots'/4106, l='world', x=-26.88, y=79.00, z=-14.01]
-[22:58:43] [Server thread/WARN]: Fetching packet for removed entity ats['Water Bucket'/4088, l='world', x=-26.88, y=79.00, z=-14.62]
-[22:58:43] [Server thread/WARN]: Fetching packet for removed entity ats['Ladder'/4089, l='world', x=-26.27, y=79.00, z=-14.19]
-[22:58:43] [Server thread/WARN]: Fetching packet for removed entity ats['Compass'/4091, l='world', x=-25.58, y=79.00, z=-15.40]
-[22:58:43] [Server thread/WARN]: Fetching packet for removed entity ats['Cooked Mutton'/4090, l='world', x=-26.07, y=79.00, z=-14.11]
-[22:58:43] [Server thread/WARN]: Fetching packet for removed entity ats['Iron Pickaxe'/4102, l='world', x=-25.74, y=79.00, z=-14.72]
-[22:58:43] [Server thread/WARN]: Fetching packet for removed entity ats['Shield'/4110, l='world', x=-26.88, y=79.00, z=-14.54]
-[22:58:43] [Server thread/WARN]: Fetching packet for removed entity ats['Iron Sword'/4086, l='world', x=-26.85, y=79.00, z=-15.13]
-[22:58:43] [Server thread/WARN]: Fetching packet for removed entity ats['Iron Pickaxe'/4094, l='world', x=-26.67, y=79.00, z=-14.31]
-[22:58:43] [Server thread/WARN]: Fetching packet for removed entity ats['Dirt'/4092, l='world', x=-26.64, y=79.00, z=-14.59]
-[22:58:43] [Server thread/WARN]: Fetching packet for removed entity ats['Diamond Pickaxe'/4104, l='world', x=-25.59, y=79.00, z=-13.99]
-[22:58:43] [Server thread/WARN]: Fetching packet for removed entity ats['Iron Axe'/4100, l='world', x=-25.59, y=79.00, z=-14.04]
-[22:58:43] [Server thread/WARN]: Fetching packet for removed entity ats['Obsidian'/4096, l='world', x=-26.56, y=79.00, z=-14.03]
-[22:58:43] [Server thread/WARN]: Fetching packet for removed entity ats['Iron Chestplate'/4108, l='world', x=-26.50, y=79.00, z=-13.98]
-[22:58:43] [Server thread/WARN]: Fetching packet for removed entity ats['Torch'/4098, l='world', x=-26.90, y=79.00, z=-15.27]
-[22:58:43] [Server thread/WARN]: Fetching packet for removed entity ats['Gold Nugget'/4099, l='world', x=-25.80, y=79.00, z=-15.11]
-[22:58:43] [Server thread/WARN]: Fetching packet for removed entity ats['Iron Pickaxe'/4084, l='world', x=-26.76, y=79.00, z=-14.71]
-[22:58:43] [Server thread/WARN]: Fetching packet for removed entity ats['Rotten Flesh'/4101, l='world', x=-25.67, y=79.00, z=-14.29]
-[22:58:43] [Server thread/WARN]: Fetching packet for removed entity ats['Iron Sword'/4095, l='world', x=-26.88, y=79.00, z=-14.65]
-[22:58:43] [Server thread/WARN]: Fetching packet for removed entity ats['Iron Shovel'/4103, l='world', x=-26.88, y=79.00, z=-14.99]
-[22:58:43] [Server thread/WARN]: Fetching packet for removed entity ats['Iron Leggings'/4107, l='world', x=-26.70, y=79.00, z=-14.30]
-[22:58:43] [Server thread/WARN]: Fetching packet for removed entity air['Experience Orb'/4111, l='world', x=-25.91, y=79.00, z=-15.15]
-[22:58:43] [Server thread/WARN]: Fetching packet for removed entity ats['Iron Helmet'/4109, l='world', x=-26.50, y=79.00, z=-15.27]
-[22:59:04] [Server thread/INFO]: Ioan_Andrei was slain by Zombie Pigman
-[22:59:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2596ms or 51 ticks behind
-[22:59:22] [Server thread/INFO]: Ioan_Andrei was slain by Zombie Pigman
-[22:59:47] [Server thread/INFO]: Ioan_Andrei was slain by Zombie Pigman
-[23:01:20] [Server thread/INFO]: Ioan_Andrei was slain by Zombie Pigman
-[23:01:42] [Server thread/INFO]: Ioan_Andrei was slain by Zombie Pigman
-[23:02:09] [Server thread/INFO]: Ioan_Andrei was slain by Zombie Pigman
-[23:07:54] [Server thread/INFO]: Ioan_Andrei lost connection: Disconnected
-[23:07:54] [Server thread/INFO]: Ioan_Andrei left the game
-[23:07:57] [Server thread/INFO]: Stopping server
-[23:07:57] [Server thread/INFO]: Saving players
-[23:07:57] [Server thread/INFO]: Saving worlds
-[23:07:57] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[23:07:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:07:57] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[23:07:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:07:57] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[23:07:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:07:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:07:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:07:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:21:45] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:21:45] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:21:45] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:21:45] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:21:45] [Server thread/INFO]: Starting minecraft server version 1.14.3
+[00:21:45] [Server thread/INFO]: Loading properties
+[00:21:45] [Server thread/INFO]: Default game type: SURVIVAL
+[00:21:45] [Server thread/INFO]: Generating keypair
+[00:21:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:21:46] [Server thread/INFO]: Using default channel type
+[00:21:49] [Server thread/INFO]: Preparing level "world"
+[00:21:49] [Server thread/INFO]: Reloading ResourceManager: Default
+[00:21:50] [Server thread/INFO]: Loaded 6 recipes
+[00:21:50] [Server thread/INFO]: Loaded 811 advancements
+[00:21:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:21:53] [Server thread/INFO]: Preparing spawn area: 0%
+[00:21:53] [Server thread/INFO]: Preparing spawn area: 0%
+[00:21:53] [Server thread/INFO]: Preparing spawn area: 0%
+[00:21:54] [Server thread/INFO]: Time elapsed: 1499 ms
+[00:21:54] [Server thread/INFO]: Done (4.682s)! For help, type "help"
+[00:24:05] [User Authenticator #1/INFO]: UUID of player Ioan_Andrei is 7a58a61c-5ca1-4b7d-97b6-19e75193b9b3
+[00:24:05] [Server thread/INFO]: Ioan_Andrei[/127.0.0.1:62613] logged in with entity id 353 at (-247.06858210569834, 58.0, -120.30184845562843)
+[00:24:05] [Server thread/INFO]: Ioan_Andrei joined the game
+[00:24:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2309ms or 46 ticks behind
+[00:25:24] [Server thread/INFO]: Ioan_Andrei was slain by Zombie Pigman
+[00:26:02] [Server thread/INFO]: Ioan_Andrei was burnt to a crisp whilst fighting Zombie Pigman
+[00:26:39] [Server thread/INFO]: Ioan_Andrei was slain by Zombie Pigman
+[00:26:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2407ms or 48 ticks behind
+[00:27:05] [Server thread/INFO]: Ioan_Andrei was slain by Zombie Pigman
+[00:28:02] [Server thread/INFO]: Ioan_Andrei was slain by Zombie Pigman
+[00:28:41] [Server thread/INFO]: Ioan_Andrei was slain by Zombie Pigman
+[00:29:18] [Server thread/INFO]: Ioan_Andrei tried to swim in lava to escape Zombie Pigman
+[00:29:51] [Server thread/INFO]: Ioan_Andrei was slain by Zombie Pigman
+[00:30:23] [Server thread/INFO]: Ioan_Andrei was slain by Zombie Pigman
+[00:31:17] [Server thread/INFO]: Ioan_Andrei went up in flames
+[00:31:36] [Server thread/INFO]: Ioan_Andrei was slain by Zombie Pigman
+[00:32:10] [Server thread/INFO]: Ioan_Andrei was slain by Zombie Pigman
+[00:32:56] [Server thread/INFO]: Ioan_Andrei was slain by Zombie Pigman
+[00:34:21] [Server thread/INFO]: Ioan_Andrei was slain by Zombie Pigman
+[00:36:00] [Server thread/INFO]: Ioan_Andrei was slain by Zombie Pigman
+[00:37:17] [Server thread/INFO]: Ioan_Andrei was slain by Zombie Pigman
+[00:37:49] [Server thread/WARN]: Fetching packet for removed entity air['Experience Orb'/3773, l='world', x=-25.97, y=80.53, z=-15.96]
+[00:37:54] [Server thread/INFO]: Ioan_Andrei was slain by Zombie Pigman
+[00:38:10] [Server thread/INFO]: Ioan_Andrei was slain by Zombie Pigman
+[00:38:28] [Server thread/INFO]: Ioan_Andrei was slain by Zombie Pigman
+[00:39:00] [Server thread/INFO]: Ioan_Andrei was slain by Zombie Pigman
+[00:39:25] [Server thread/INFO]: Ioan_Andrei was slain by Zombie Pigman
+[00:42:33] [Server thread/INFO]: Ioan_Andrei was slain by Zombie Pigman
+[00:56:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15042ms or 300 ticks behind
+[00:57:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[01:02:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2538ms or 50 ticks behind
+[01:05:25] [Server thread/INFO]: Ioan_Andrei lost connection: Disconnected
+[01:05:25] [Server thread/INFO]: Ioan_Andrei left the game
+[01:05:28] [Server thread/INFO]: Stopping server
+[01:05:28] [Server thread/INFO]: Saving players
+[01:05:28] [Server thread/INFO]: Saving worlds
+[01:05:28] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[01:05:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:05:28] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[01:05:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:05:28] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[01:05:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:05:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:05:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:05:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
