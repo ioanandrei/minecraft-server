@@ -1,48 +1,22 @@
-[10:26:47] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:26:47] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:26:47] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[10:26:47] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:26:48] [Server thread/INFO]: Starting minecraft server version 1.14.3
-[10:26:48] [Server thread/INFO]: Loading properties
-[10:26:48] [Server thread/INFO]: Default game type: SURVIVAL
-[10:26:48] [Server thread/INFO]: Generating keypair
-[10:26:48] [Server thread/INFO]: Starting Minecraft server on *:25565
-[10:26:48] [Server thread/INFO]: Using default channel type
-[10:26:48] [Server thread/INFO]: Preparing level "world"
-[10:26:49] [Server thread/INFO]: Reloading ResourceManager: Default
-[10:26:49] [Server thread/INFO]: Loaded 6 recipes
-[10:26:50] [Server thread/INFO]: Loaded 811 advancements
-[10:26:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[10:26:52] [Server thread/INFO]: Preparing spawn area: 0%
-[10:26:52] [Server thread/INFO]: Preparing spawn area: 0%
-[10:26:52] [Server thread/INFO]: Preparing spawn area: 0%
-[10:26:52] [Server thread/INFO]: Preparing spawn area: 0%
-[10:26:52] [Server thread/INFO]: Preparing spawn area: 0%
-[10:26:59] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[10:26:59] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[10:26:59] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[10:26:59] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[10:26:59] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[10:26:59] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[10:26:59] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[10:26:59] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[10:26:59] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[10:26:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:26:59] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[10:26:59] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[10:26:59] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[10:26:59] [Server thread/INFO]: Preparing spawn area: 0%
-[10:27:00] [Server thread/INFO]: Time elapsed: 9509 ms
-[10:27:00] [Server thread/INFO]: Done (11.252s)! For help, type "help"
-[10:27:53] [User Authenticator #1/INFO]: UUID of player AndreiCauc is ebb7834a-da92-486b-83ad-5292645a11d6
-[10:27:54] [Server thread/INFO]: AndreiCauc[/5.12.162.12:50809] logged in with entity id 381 at (-302.66262188171396, 79.0, -54.61240099824199)
-[10:27:54] [Server thread/INFO]: AndreiCauc joined the game
-[10:27:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
-[10:58:35] [Server thread/INFO]: AndreiCauc was killed by Witch using magic
-[11:01:55] [Server thread/INFO]: AndreiCauc lost connection: Disconnected
-[11:01:55] [Server thread/INFO]: AndreiCauc left the game
-[12:24:10] [User Authenticator #2/INFO]: UUID of player AndreiCauc is ebb7834a-da92-486b-83ad-5292645a11d6
-[12:24:10] [Server thread/INFO]: AndreiCauc[/5.12.162.12:51369] logged in with entity id 6401 at (-292.0368848725665, 10.0, -87.403246929171)
-[12:24:10] [Server thread/INFO]: AndreiCauc joined the game
-[13:08:11] [Server thread/INFO]: AndreiCauc lost connection: Disconnected
-[13:08:11] [Server thread/INFO]: AndreiCauc left the game
+[00:01:20] [User Authenticator #3/INFO]: UUID of player Ioan_Andrei is 7a58a61c-5ca1-4b7d-97b6-19e75193b9b3
+[00:01:20] [Server thread/INFO]: Ioan_Andrei[/127.0.0.1:58142] logged in with entity id 18814 at (-238.32953122209713, 64.0625, -129.01881954320103)
+[00:01:20] [Server thread/INFO]: Ioan_Andrei joined the game
+[00:02:14] [Server thread/INFO]: Ioan_Andrei lost connection: Disconnected
+[00:02:14] [Server thread/INFO]: Ioan_Andrei left the game
+[00:19:53] [User Authenticator #4/INFO]: UUID of player Ioan_Andrei is 7a58a61c-5ca1-4b7d-97b6-19e75193b9b3
+[00:19:53] [Server thread/INFO]: Ioan_Andrei[/127.0.0.1:58201] logged in with entity id 18922 at (-240.36490274199113, 59.0, -135.1435247090782)
+[00:19:53] [Server thread/INFO]: Ioan_Andrei joined the game
+[00:55:21] [Server thread/INFO]: Ioan_Andrei lost connection: Disconnected
+[00:55:21] [Server thread/INFO]: Ioan_Andrei left the game
+[00:55:25] [Server thread/INFO]: Stopping server
+[00:55:25] [Server thread/INFO]: Saving players
+[00:55:25] [Server thread/INFO]: Saving worlds
+[00:55:25] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[00:55:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:55:25] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[00:55:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:55:25] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[00:55:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:55:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:55:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:55:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
